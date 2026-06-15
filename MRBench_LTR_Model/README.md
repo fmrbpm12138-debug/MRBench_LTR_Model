@@ -69,3 +69,9 @@ MRBench_LTR_Model/
 - 如果有NVIDIA显卡，会自动使用GPU加速
 - 无显卡则使用CPU运行（速度较慢但效果相同）
 - 模型文件较大（约3GB），首次运行前请确保网络正常
+
+## 附件
+* ▶️ **系统操作演示视频：** [点击此处在 Bilibili 在线观看]
+* (【Ai导师评分系统使用说明】 https://www.bilibili.com/video/BV1GhJG6uEPw/?share_source=copy_web&vd_source=b5bed293356eaff1b4740aa515c111e4)
+* 📑 **项目详细汇报文档：** [点击下载项目答辩演示 PDF]
+* (链接：https://pan.baidu.com/s/12W6Oz9vLfhDYtEajYz6hSQ?pwd=gpd1 提取码：gpd1 )
